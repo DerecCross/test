@@ -1,4 +1,3 @@
 <?php
-echo "Hello world!";
-/*GHJNGHJGFJ
-dfsdfsdfsfgfjjgfj gfsdfsdfsddfgfdgsdfsdfsdf
+Добавил новый документ 18.09.2024
+2Добавил новый документ 18.09.2024
