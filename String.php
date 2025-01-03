@@ -20,3 +20,4 @@ $products = [
 foreach ($products as $product) {
     echo "$product[name] $product[price] $product[amount] <br>";
 }
+
